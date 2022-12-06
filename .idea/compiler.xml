@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Rabota chislami" options="--add-exports jdk.jlink/jdk.tools.jlink.internal.plugins=ALL-UNNAMED --add-exports java.base/sun.util.locale=ALL-UNNAMED" />
+      <module name="Rabota chislami" options="--add-exports jdk.jlink/jdk.tools.jlink.internal.plugins=ALL-UNNAMED --add-exports java.base/sun.util.locale=ALL-UNNAMED --add-exports java.base/jdk.internal.reflect=ALL-UNNAMED" />
     </option>
   </component>
 </project>
